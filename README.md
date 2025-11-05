@@ -1,91 +1,95 @@
-<!--
-  GitHub Profile README — Dark Theme
-  Replace: yourusername, youremail@example.com, linkedin-url, repo links, and any placeholders.
--->
+# 👋 Hey, I'm Manan
 
-<h1 align="center" style="margin-bottom: 0.2rem">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/hi.svg" alt="Hi" width="42" style="vertical-align:middle"/>
-  &nbsp;Hey — I'm Manan
-</h1>
-<p align="center">Sophomore @ IIIT Delhi • ECE • Machine Learning obsessed • CS-first problem solver</p>
+<p align="center">
+  <img src="assets/hi.svg" alt="Manan — IIIT Delhi" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/yourusername">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/yourusername?label=follow&style=social">
+    <img src="https://img.shields.io/badge/Manan-Developer-79ff97?style=for-the-badge&logo=github" alt="profile-badge"/>
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
-  </a>
-  &nbsp;
-  <a href="mailto:youremail@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-manana%40example.com-red?style=flat&logo=gmail">
-  </a>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/scikit--learn-%2300B4A0.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" />
+  <img src="https://img.shields.io/badge/Java-%23f89820.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+  <img src="https://img.shields.io/badge/ML-Obsessed-7c3aed?style=for-the-badge&logo=neovim&logoColor=white" alt="ml" />
 </p>
 
----
-
-## 🔭 Quick Snapshot
-- **Who:** Sophomore (ECE) at IIIT Delhi — built on electronics, fueled by CS.  
-- **What I do:** Learning and building **Machine Learning** systems. Practicing **DSA**, writing **Java**, building ML projects with Python.  
-- **Goal:** Land a role in **ML / applied research / ML product engineering** — not vague, practical work that ships.
-
----
-
-## 🧰 Tech · Tools · Focus
-**Languages:** Python • Java • C  
-**ML & Data:** NumPy • Pandas • scikit-learn • Matplotlib — learning TensorFlow / PyTorch  
-**Practicing:** DSA (competitive approach), model prototyping, basic ML pipelines  
-**Soon:** Web dev to productionize ML models (frontend + small backend stacks)
-
----
-
-## 🚧 Current Projects
-> *Short, real, and visible projects look better than long wishlists. Add repos and pin them.*
-
-- **ML-Playground** — small experiments: classification, tabular baselines, model explainability notes.  
-- **DSA-Notes** — my personal DSA cheat-sheets + solved problems (Java / Python).  
-- **(Coming) ML-Web-App** — deploy a small model with a web UI (Flask/Streamlit + simple frontend).
-
-*(Add links to the repos above and pin important ones on your profile.)*
-
----
-
-## 📈 GitHub Stats (dark)
-<!-- Replace `yourusername` with your GitHub username -->
 <p align="center">
-  <img alt="Manan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&title_color=fff&icon_color=79ff97&text_color=c9d1d9&bg_color=0d1117&theme=dark" />
-  &nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=0d1117&title_color=fff" />
+  <img src="https://img.shields.io/badge/Status-Learning-green?style=flat-square" alt="status" />
+  <img src="https://img.shields.io/badge/Focus-ML-blue?style=flat-square" alt="focus" />
+  <img src="https://img.shields.io/badge/Looking%20for-Internships-orange?style=flat-square" alt="looking for" />
 </p>
 
 ---
 
-## 🎯 Professional Mindset (short and honest)
-- I prefer **depth** over breadth — I’ll dig past the tutorial and break the model to understand why it fails.  
-- I like systems that solve real problems, not just model performance for the sake of numbers.  
-- If it doesn’t improve user/product impact or my understanding, it’s low priority.
+## 🎓 About Me
+I'm a **sophomore at IIIT Delhi (ECE)** who’s fallen deep into **Computer Science** and **Machine Learning**. Started with **Python** back in school, now working through **ML**, **DSA**, and **Java** — with plans to learn **Web Development** next.  
+
+I like breaking things to understand them and solving problems that actually have an impact — not just textbook stuff.
 
 ---
 
-## ⚽ Outside the Screen
-I watch and play sports — **F1, Cricket, Football**. Competitive games? **Valorant** and **CS**. I follow strategies as closely as code patterns.
+## 🔥 What I’m Doing
+- Learning **Python for ML** — NumPy, Pandas, scikit-learn, and beyond.  
+- Practicing **DSA** and **Java** to solidify core programming logic.  
+- Diving deep into **ML concepts** — regression, classification, neural nets, and data pipelines.  
+- Planning to expand into **Web Dev** (to deploy ML systems end-to-end).  
+- Long-term goal: **Work in an ML-focused engineering or R&D role**.
 
 ---
 
-## ✉️ Contact
-- Email: **youremail@example.com**  
-- LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+## 🧠 Tech Stack
+- **Languages:** Python, Java, C  
+- **ML Tools:** NumPy, Pandas, scikit-learn, Matplotlib, TensorFlow (learning)  
+- **Currently Learning:** Deep Learning, Model Optimization, Deployment  
+- **Next Up:** Web Dev (React + Flask/Node)  
 
 ---
 
-## 🔧 How to customize (copy-paste friendly)
-1. Replace `yourusername`, `youremail@example.com`, and LinkedIn URL.  
-2. Add/pin your best repos — short, focused projects that show ML + engineering.  
-3. Replace the `hi.svg` line (optional) with any small hero image or remove it entirely.  
-4. Optional: Add badges for languages, top skills, or certifications you earn.
+## 🚀 Projects
+> Pin these on your profile — they show real work, not filler.
+
+### 🧩 ML-Playground
+Collection of experiments — small models, dataset exploration, metrics tracking, and baseline analysis.  
+*Tech:* Python, scikit-learn, Pandas.
+
+### ⚙️ DSA-Notes
+Curated problems + personal solutions in **Java** and **Python**, focused on patterns and reasoning, not just syntax.
+
+### 🌐 (Coming Soon) ML-Web-App
+A small web interface for deploying an ML model (Flask + HTML/CSS/JS).  
+Goal: bring ML to actual users.
 
 ---
 
-> ⚡ **One-liner to live by:** Build, break, learn — then ship something useful.
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=0d1117&title_color=79ff97&icon_color=79ff97" alt="Manan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=0d1117&title_color=79ff97" alt="Top languages" />
+</p>
+
+---
+
+## 🎯 My Philosophy
+- I value **depth** over superficial learning.  
+- I’d rather **build something broken and fix it** than follow tutorials blindly.  
+- **Real progress > fake productivity.**
+
+---
+
+## ⚽ Beyond the Code
+I live for sports and competition — watching or playing **F1**, **Cricket**, **Football**, and **eSports** (Valorant, CS).  
+I see strategy in games the same way I see logic in algorithms.
+
+---
+
+## 📬 Connect
+- **Email:** youremail@example.com  
+- **LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)  
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+
+---
+
+> ⚡ *Build. Break. Learn. Ship.*
+
