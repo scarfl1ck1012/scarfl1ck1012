@@ -1,12 +1,11 @@
-# 👋 Hey, I'm Manan
+# 👋 Hey, I'm Manan Saini
 
 <p align="center">
-  <img src="assets/hi.svg" alt="Manan — IIIT Delhi" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/Manan-Developer-79ff97?style=for-the-badge&logo=github" alt="profile-badge"/>
+  <a href="https://github.com/scarfl1ck1012">
+    <img src="https://img.shields.io/badge/scarfl1ck1012-Developer-79ff97?style=for-the-badge&logo=github" alt="profile-badge"/>
   </a>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python" />
   <img src="https://img.shields.io/badge/scikit--learn-%2300B4A0.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
@@ -65,8 +64,8 @@ Goal: bring ML to actual users.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=0d1117&title_color=79ff97&icon_color=79ff97" alt="Manan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=0d1117&title_color=79ff97" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=scarfl1ck1012&show_icons=true&theme=dark&bg_color=0d1117&title_color=79ff97&icon_color=79ff97" alt="Manan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarfl1ck1012&layout=compact&theme=dark&bg_color=0d1117&title_color=79ff97" alt="Top languages" />
 </p>
 
 ---
@@ -85,9 +84,9 @@ I see strategy in games the same way I see logic in algorithms.
 ---
 
 ## 📬 Connect
-- **Email:** youremail@example.com  
-- **LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Email:** manan24329@iiitd.ac.in 
+- **LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/manan-saini-7a2287248)  
+- **GitHub:** [github.com/scarfl1ck1012](https://github.com/scarfl1ck1012)
 
 ---
 
