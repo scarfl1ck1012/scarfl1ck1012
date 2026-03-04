@@ -63,6 +63,10 @@ Goal: bring ML to actual users.
 ---
 
 ## 📊 GitHub Stats
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=scarfl1ck1012&show_icons=true&theme=dark&bg_color=0d1117&title_color=79ff97&icon_color=79ff97" alt="Manan's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarfl1ck1012&layout=compact&theme=dark&bg_color=0d1117&title_color=79ff97" alt="Top languages" />
