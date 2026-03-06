@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="assets/card-opening.svg" width="800">
+<img src="card-opening.svg" width="800">
 
 </p>
 
