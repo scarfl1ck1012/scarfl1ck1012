@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+scarfl1ck1012+👋;A+Certified+Vibe+Coder;Full-Stack+Tinkerer;ML+%26+Systems+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+scarfl1ck1012+;A+Certified+Vibe+Coder;Full-Stack+Tinkerer;ML+%26+Systems+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -33,13 +33,17 @@ Most of my time goes into building projects, experimenting with ideas, and debug
 
 ### 🛠️ Languages, Frameworks & Tools
 
-**Backend:** &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+**Backend:** &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/>
 <br/><br/>
-**Frontend:** &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+**Frontend:** &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"/>
 <br/><br/>
-**Data / ML:** &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+**Data / ML:** &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" title="Kaggle"/> &nbsp; <img height="28" src="https://cdn.simpleicons.org/googlecolab/F9AB00" title="Google Colab"/>
 <br/><br/>
-**DevOps / Tools:** &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"/>
+**DevOps / Tools:** &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" title="Supabase"/> &nbsp; <img height="28" src="https://cdn.simpleicons.org/vercel/white" title="Vercel"/>
+<br/><br/>
+**Design / Planning:** &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma"/> &nbsp; <img height="28" src="https://cdn.simpleicons.org/miro/050038" title="Miro"/>
+<br/><br/>
+**Secret Weapons:** &nbsp; 🛸 `import antigravity`
 
 ---
 
