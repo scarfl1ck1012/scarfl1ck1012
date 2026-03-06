@@ -50,3 +50,12 @@ Most of my time goes into building projects, experimenting with ideas, and debug
 | A full-stack health and wellness platform integrating AR features and fitness tracking. | A complex networking project leveraging Java, SocketChannels, and Virtual Threads. |
 | [**riscv-assembler-simulator**](https://github.com/scarfl1ck1012/riscv-assembler-simulator) | [**simplifolio**](https://github.com/scarfl1ck1012/simplifolio) |
 | A custom-built assembler and simulator designed for translating and executing RISC-V instructions. | A streamlined tool for generating and deploying simplified personal portfolios. |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=scarfl1ck1012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scarfl1ck1012&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</p>
