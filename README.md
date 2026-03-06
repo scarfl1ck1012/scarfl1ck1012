@@ -15,6 +15,9 @@ Areas I enjoy working in:
 Outside programming you'll usually find me watching **Formula 1**, following **cricket**, or playing **competitive games** like Valorant or CS2.
 
 ---
+<p align="center">
+<img src="https://raw.githubusercontent.com/scarfl1ck1012/scarfl1ck1012/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 # Activity
 
