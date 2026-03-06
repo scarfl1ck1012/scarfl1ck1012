@@ -43,7 +43,7 @@ Most of my time goes into building projects, experimenting with ideas, and debug
 <br/><br/>
 **Design / Planning:** &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma"/> &nbsp; <img height="28" src="https://cdn.simpleicons.org/miro/050038" title="Miro"/>
 <br/><br/>
-**Secret Weapons / Vibes:** &nbsp; <img height="28" src="https://cdn.simpleicons.org/cursor/white" title="Cursor"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="Google Antigravity"/>
+**Secret Weapons / Vibes:** &nbsp; <img height="28" src="https://cdn.simpleicons.org/cursor/white" title="Cursor"/> &nbsp; <img height="28" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvinjxr8MVZ69diNIbNNMfcUljy04dIjkqPQ&s" title="Antigravity" style="border-radius: 5px;"/>
 
 ---
 
