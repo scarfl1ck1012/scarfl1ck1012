@@ -8,10 +8,6 @@
   <em>Engineering student at <b>IIIT Delhi</b> building systems that combine machine learning, backend infrastructure, and full-stack applications.</em>
 </p>
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -27,85 +23,30 @@ Most of my time goes into building projects, experimenting with ideas, and debug
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/scarfl1ck1012/scarfl1ck1012/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</p>
+
+---
+
 ### 🛠️ Languages, Frameworks & Tools
 
-<table width="100%">
-  <tr>
-    <td width="25%" align="center"><b>Backend</b></td>
-    <td width="75%">
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;&nbsp;
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>&nbsp;&nbsp;
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" align="center"><b>Frontend</b></td>
-    <td width="75%">
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp;&nbsp;
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&nbsp;&nbsp;
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" align="center"><b>Data / ML</b></td>
-    <td width="75%">
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>&nbsp;&nbsp;
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>&nbsp;&nbsp;
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>&nbsp;&nbsp;
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" align="center"><b>DevOps / Tools</b></td>
-    <td width="75%">
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;&nbsp;
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>&nbsp;&nbsp;
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>&nbsp;&nbsp;
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>&nbsp;&nbsp;
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"/>
-    </td>
-  </tr>
-</table>
+**Backend:** &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<br/><br/>
+**Frontend:** &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+<br/><br/>
+**Data / ML:** &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+<br/><br/>
+**DevOps / Tools:** &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"/>
 
 ---
 
 ### 📂 Highlighted Repositories
 
-<p align="center">
-  <a href="https://github.com/scarfl1ck1012/TheFitWise">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scarfl1ck1012&repo=TheFitWise&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="TheFitWise"/>
-  </a>
-  <a href="https://github.com/scarfl1ck1012/riscv-assembler-simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scarfl1ck1012&repo=riscv-assembler-simulator&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="RISC-V Simulator"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/scarfl1ck1012/code-arena">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scarfl1ck1012&repo=code-arena&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Code Arena"/>
-  </a>
-  <a href="https://github.com/scarfl1ck1012/simplifolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scarfl1ck1012&repo=simplifolio&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Simplifolio"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scarfl1ck1012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scarfl1ck1012&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scarfl1ck1012&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/scarfl1ck1012/scarfl1ck1012/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+| [**TheFitWise**](https://github.com/scarfl1ck1012/TheFitWise) | [**code-arena**](https://github.com/scarfl1ck1012/code-arena) |
+| :--- | :--- |
+| A full-stack health and wellness platform integrating AR features and fitness tracking. | A complex networking project leveraging Java, SocketChannels, and Virtual Threads. |
+| [**riscv-assembler-simulator**](https://github.com/scarfl1ck1012/riscv-assembler-simulator) | [**simplifolio**](https://github.com/scarfl1ck1012/simplifolio) |
+| A custom-built assembler and simulator designed for translating and executing RISC-V instructions. | A streamlined tool for generating and deploying simplified personal portfolios. |
