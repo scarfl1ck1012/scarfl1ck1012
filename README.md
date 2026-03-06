@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+scarfl1ck1012+;A+Certified+Vibe+Coder;Full-Stack+Tinkerer;ML+%26+Systems+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+scarfl1ck1012+👋;A+Certified+Vibe+Coder;Full-Stack+Tinkerer;ML+%26+Systems+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -43,7 +43,7 @@ Most of my time goes into building projects, experimenting with ideas, and debug
 <br/><br/>
 **Design / Planning:** &nbsp; <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma"/> &nbsp; <img height="28" src="https://cdn.simpleicons.org/miro/050038" title="Miro"/>
 <br/><br/>
-**Secret Weapons:** &nbsp; 🛸 `import antigravity`
+**Secret Weapons / Vibes:** &nbsp; <img height="28" src="https://cdn.simpleicons.org/cursor/white" title="Cursor"/> &nbsp; 🛸 `import antigravity`
 
 ---
 
