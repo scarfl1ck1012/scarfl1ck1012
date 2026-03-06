@@ -1,1 +1,72 @@
+<svg width="800" height="400" viewBox="0 0 800 400"
+xmlns="http://www.w3.org/2000/svg">
 
+<style>
+.title {
+font: bold 36px monospace;
+fill: #79FF97;
+opacity:0;
+}
+
+.subtitle {
+font: 20px monospace;
+fill: white;
+opacity:0;
+}
+</style>
+
+<!-- background -->
+<rect width="800" height="400" fill="#0d1117"/>
+
+<!-- card pack left -->
+<rect x="0" y="0" width="400" height="400" fill="#1f6feb">
+<animate attributeName="x"
+begin="1s"
+dur="1s"
+from="0"
+to="-420"
+fill="freeze"/>
+</rect>
+
+<!-- card pack right -->
+<rect x="400" y="0" width="400" height="400" fill="#1f6feb">
+<animate attributeName="x"
+begin="1s"
+dur="1s"
+from="400"
+to="820"
+fill="freeze"/>
+</rect>
+
+<!-- glow line -->
+<line x1="400" y1="0" x2="400" y2="400" stroke="#79FF97" stroke-width="4">
+<animate attributeName="opacity"
+begin="0s"
+dur="1s"
+from="0"
+to="1"
+fill="freeze"/>
+</line>
+
+<!-- title reveal -->
+<text x="400" y="200" text-anchor="middle" class="title">
+MANAN SAINI
+<animate attributeName="opacity"
+begin="2s"
+dur="1s"
+from="0"
+to="1"
+fill="freeze"/>
+</text>
+
+<text x="400" y="240" text-anchor="middle" class="subtitle">
+Developer • ML • Systems
+<animate attributeName="opacity"
+begin="2.5s"
+dur="1s"
+from="0"
+to="1"
+fill="freeze"/>
+</text>
+
+</svg>
