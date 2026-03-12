@@ -52,8 +52,8 @@ Most of my time goes into building projects, experimenting with ideas, and debug
 | [**TheFitWise**](https://github.com/scarfl1ck1012/TheFitWise) | [**PaddockPulse**](https://github.com/scarfl1ck1012/PaddockPulse) |
 | :--- | :--- |
 | A full-stack health and wellness platform integrating AR features and fitness tracking. | A high-performance, responsive Formula 1 telemetry and statistics dashboard built using React and Vite. |
-| [**riscv-assembler-simulator**](https://github.com/scarfl1ck1012/riscv-assembler-simulator) | [**simplifolio**](https://github.com/scarfl1ck1012/simplifolio) |
-| A custom-built assembler and simulator designed for translating and executing RISC-V instructions. | A streamlined tool for generating and deploying simplified personal portfolios. |
+| [**University ERP System**](https://github.com/scarfl1ck1012/University-ERP-System) | [**simplifolio**](https://github.com/scarfl1ck1012/simplifolio) |
+| A comprehensive University ERP System built with Java Swing and MySQL to streamline campus administration. | A streamlined tool for generating and deploying simplified personal portfolios. |
 
 ---
 
